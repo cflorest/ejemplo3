@@ -1,0 +1,35 @@
+
+#estilo1{
+    width: 200px;
+    height: 1000px;
+    font-size: 20px;
+    background: blue;
+    float: left;
+    
+  
+}
+
+#estilo2{
+    font-size: 30px;
+    width: 1600px;
+    height: 200px;
+    background: yellow;
+    float: left;
+         
+    
+}
+
+#estilo3{
+    font-size: 40px;
+    width: 1600px;
+    height: 800px;
+    background: green;
+    float: left;
+    
+    
+    
+   
+}
+
+
+
